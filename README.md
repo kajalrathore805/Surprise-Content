@@ -23,6 +23,7 @@ $(this).animate({
 
 </head>  
 <body>  
+ <h1>This is surprise content </h1>
 <center><img id="one" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsRRkgcESCY3MBh-pAnOVLUCPRfChiBLBOg&s" width="1%" height="1%" onclick="fun()">  
 <p>Please click this image</p>
 </center>
